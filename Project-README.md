@@ -3,7 +3,7 @@
 
 #### -- Project Status: [Completed]
 
-## Project Intro/Objective
+## Project Introduction
 這個Project的主要目的是,利用過去的用電量來預測用戶的未來用電量,不限於特定用戶只要資料型別符合皆可以預測。
 
 ### Methods Used
