@@ -31,8 +31,8 @@
 
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
+* [LSTM_final](https://nbviewer.jupyter.org/github/williron3960/linearRegression/blob/master/LSTM_final.ipynb)
+* [linearRegression](link)
 * [Blog Post](link)
 
 
