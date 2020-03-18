@@ -31,23 +31,7 @@
 
 
 ## Featured Notebooks/Analysis/Deliverables
+* [linearRegression](https://nbviewer.jupyter.org/github/williron3960/linearRegression/blob/williron3960/LinearRegression1.ipynb)
 * [LSTM_final](https://nbviewer.jupyter.org/github/williron3960/linearRegression/blob/master/LSTM_final.ipynb)
-* [linearRegression](link)
-* [Blog Post](link)
+* [Polynomial Regression1](https://nbviewer.jupyter.org/github/williron3960/linearRegression/blob/williron3960-patch-1/Polynomial%20Regression1.ipynb)
 
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
